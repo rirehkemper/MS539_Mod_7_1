@@ -1,0 +1,156 @@
+[
+  {
+    "FirstName": null,
+    "LastName": null,
+    "MiddleName": null,
+    "DOB": "02/02/2010",
+    "Username": null,
+    "Phone": "918-808-7468",
+    "Email": null,
+    "Password": null,
+    "Sex": null,
+    "MedicalConditions": [
+      "type 1 diabetes"
+    ]
+  },
+  {
+    "FirstName": "Richard",
+    "LastName": "Rehkemper",
+    "MiddleName": "Allen",
+    "DOB": "03/14/1985",
+    "Username": "Richard",
+    "Phone": "9188087468",
+    "Email": "rirehkemper@gmail.com",
+    "Password": "5678",
+    "Sex": "Male",
+    "MedicalConditions": [
+      "type 1 diabetes"
+    ]
+  },
+  {
+    "FirstName": "Julie",
+    "LastName": "Rehkemper",
+    "MiddleName": "Ann",
+    "DOB": "05/11/1987",
+    "Username": "JulieA",
+    "Phone": "2234451111",
+    "Email": "jarehkemper@gmail.com",
+    "Password": "1234",
+    "Sex": "Female",
+    "MedicalConditions": [
+      "type 1 diabetes"
+    ]
+  },
+  {
+    "FirstName": "",
+    "LastName": "",
+    "MiddleName": "",
+    "DOB": "",
+    "Username": "",
+    "Phone": "",
+    "Email": "",
+    "Password": "",
+    "Sex": "",
+    "MedicalConditions": [
+      "type 1 diabetes"
+    ]
+  },
+  {
+    "FirstName": "John",
+    "LastName": "Wilkes",
+    "MiddleName": "T",
+    "DOB": "05/15/1902",
+    "Username": "John",
+    "Phone": "2225554222",
+    "Email": "jwilkes@jz.com",
+    "Password": "1234",
+    "Sex": "Male",
+    "MedicalConditions": [
+      "type 1 diabetes"
+    ]
+  },
+  {
+    "FirstName": "Jenna",
+    "LastName": "lee",
+    "MiddleName": "b",
+    "DOB": "05/15/2000",
+    "Username": "Jenna",
+    "Phone": "55555555555",
+    "Email": "Jlee@gmail.com",
+    "Password": "4567",
+    "Sex": "",
+    "MedicalConditions": [
+      "type 1 diabetes"
+    ]
+  },
+  {
+    "FirstName": "Allen",
+    "LastName": "r",
+    "MiddleName": "",
+    "DOB": "03/15/2000",
+    "Username": "Allen",
+    "Phone": "(555) 555-5555",
+    "Email": "ACoolbeans@gmail.com",
+    "Password": "1234",
+    "Sex": "Male",
+    "MedicalConditions": [
+      "type 1 diabetes"
+    ]
+  },
+  {
+    "FirstName": "Joe",
+    "LastName": "Lowe",
+    "MiddleName": "Schmoe",
+    "DOB": "09/14/1980",
+    "Username": "Joe",
+    "Phone": "(999) 999-9999",
+    "Email": "madeup@gmail.com",
+    "Password": "test",
+    "Sex": "",
+    "MedicalConditions": [
+      "type 1 diabetes"
+    ]
+  },
+  {
+    "FirstName": "Joe",
+    "LastName": "Scmhoe",
+    "MiddleName": "J",
+    "DOB": "10/10/1956",
+    "Username": "Joe",
+    "Phone": "(777) 777-7777",
+    "Email": "jschmoe@gmail.com",
+    "Password": "c(%VnQ#xM!",
+    "Sex": "Male",
+    "MedicalConditions": [
+      "type 1 diabetes"
+    ]
+  },
+  {
+    "FirstName": "a",
+    "LastName": "smell",
+    "MiddleName": "nother",
+    "DOB": "02/13/2000",
+    "Username": "another",
+    "Phone": "(555) 555-5555",
+    "Email": "guess@msdaz.net",
+    "Password": "smell",
+    "Sex": "Female",
+    "MedicalConditions": [
+      "type 1 diabetes"
+    ]
+  },
+  {
+    "FirstName": "Godfrey",
+    "LastName": "fanny",
+    "MiddleName": "j",
+    "DOB": " 1/21/2013",
+    "Username": "Godfrey",
+    "Phone": "(918) 888-8888",
+    "Email": "jdafsd@gmail.com",
+    "Password": "1234",
+    "Sex": "Male",
+    "MedicalConditions": [
+      "type 1 diabetes"
+    ]
+  }
+]
